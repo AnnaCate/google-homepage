@@ -1,5 +1,22 @@
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+             GENERAL
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
 body {
     font: 13px roboto, sans-serif;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+          NAVIGATION BAR
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
+nav {
+    padding-top: 15px;
+    padding-left: 10px;
 }
 
 nav ul {
@@ -21,16 +38,16 @@ nav a {
     padding: 50px 10px 16px 10px;
 }
 
-.floatleft a:hover {
-    text-decoration: underline;
-}
-
 .floatleft {
     float:left;
 }
 .floatright {
     float:right;
 }
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+          SEARCH AREA
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 
 .main-container img {
     padding-bottom: 20px;
@@ -54,6 +71,10 @@ nav a {
     text-decoration: none;
     color: #1a0dab;
 }
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+               FOOTER
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 
  footer {
     position: fixed;
