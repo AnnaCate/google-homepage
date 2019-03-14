@@ -1,7 +1,7 @@
-This is my first project to test my knowledge of HTML and CSS.
+This is my first project to test my knowledge of HTML and CSS. It's a clone of the Google homepage.
 
-At the end of the project, I will have demonstrated my ability to create a basic webpage and style it using CSS.
+I learned how to write and edit basic HTML and CSS, as well as practiced using Git and the Chrome developer tools.
 
-I'm going to be cloning the Google homepage! Wish me luck!
+See the live page <a href="AnnaCate.github.io/google-homepage">here</a>
 
 From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
